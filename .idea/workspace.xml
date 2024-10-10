@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f3769d5-ae24-4776-94e5-77f5d493514a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CursoEmVideo/Excercícios/ex081.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVideo/Excercícios/ex081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo/25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas Otavio Miranda/22.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,18 +27,22 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2nGHZ2IiLGdJnMrHGn5J02KsjSd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ex080.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex081.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.ex080.executor": "Run",
+    "Python.ex081.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.ex081">
     <configuration name="ex080" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MeusProjetos" />
@@ -111,5 +123,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
