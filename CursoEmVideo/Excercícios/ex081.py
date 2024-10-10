@@ -2,11 +2,11 @@ lista = []
 c = 0
 
 while True:
-    valores.append(int(input('Digite um valor: ')))
+    lista.append(int(input('Digite um valor: ')))
     pergunta = str(input('Quer continuar? [S/N] ')).strip().upper()
     if pergunta in 'N':
         break
-    if lista in 5:
+    if lista in 'S':
         c = c + 1
 #print(f'Voce digitou {len(lista[n])} elementos')
 print(f'Os valores em ordem decrescente sao {lista.sort(reverse=True)}')
