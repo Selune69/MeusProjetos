@@ -5,6 +5,7 @@ media = 0
 maior = 0
 menor = 0
 n = 0
+
 while p in 'Ss':
     n = int(input('Digite um numero: '))
     p = str(input('Quer continuar? [S/N] ')).upper().strip()
@@ -17,6 +18,8 @@ while p in 'Ss':
             maior = n
         if n < menor:
             menor = n
+
 media = s / c
+
 print(f'Voce digitou {c} numeros e a media foi {media:.1f}')
 print(f'O maior valor digitado foi o {maior} e o menor foi {menor}')

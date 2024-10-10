@@ -1,10 +1,14 @@
 print(f'\033[42m{" LOJAS LANIER ":=^40}\033[m')
+
 preço = float(input('Preço do produto: R$'))
+
 print('''[ 1 ] À VISTA DINHEIRO/CHEQUE
 [ 2 ] À VISTA NO CARTÃO
 [ 3 ] EM ATÉ 2X NO CARTÃO
 [ 4 ] 3X OU MAIS NO CARTÃO''')
+
 opção = int(input('ESCOLHA SUA OPÇÃO: '))
+
 if opção == 1:
     VDinheiro = preço - (preço * 10) / 100
     print(f'O valor à vista em dinheiro/cheque do produto ficará R${VDinheiro:.2f}')

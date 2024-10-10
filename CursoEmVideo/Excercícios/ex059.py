@@ -1,8 +1,10 @@
 import time
 from time import sleep
 opção = 0
+
 n1 = int(input('Primeiro valor: '))
 n2 = int(input('Segundo valor: '))
+
 while opção != 5:
     print('''
     [ 1 ] SOMAR
@@ -10,7 +12,9 @@ while opção != 5:
     [ 3 ] MAIOR
     [ 4 ] NOVOS NÚMEROS 
     [ 5 ] SAIR DO PROGRAMA''')
+    
     opção = int(input('>>>>>>>>>>> Qual é a sua opção: '))
+    
     if opção == 1:
         print(f'O resultado de {n1} + {n2} é igual a {n1 + n2}.')
     elif opção == 2:

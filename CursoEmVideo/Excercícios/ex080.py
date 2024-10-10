@@ -1,4 +1,5 @@
 lista = []
+
 for c in range(0, 5):
     n = int(input('Digite um valor:'))
     if c == 0 or n > lista[-1]:
@@ -12,5 +13,6 @@ for c in range(0, 5):
                 print(f'Adicionado na posicao {pos} da lista')
                 break
             pos = pos + 1
+
 print('-' * 30)
 print(f'Os valores digitados em ordem foram {lista}.')

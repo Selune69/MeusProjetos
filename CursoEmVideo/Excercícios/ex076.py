@@ -7,6 +7,7 @@ listagem = ('Lapis', 1.75,
             'Mochila', 120.32,
             'Canetas', 22.30,
             'Livros', 34.90)
+
 for c in range (0, len(listagem)):
     if c % 2 == 0:
         print(f'{listagem[c]:.<30}', end='')

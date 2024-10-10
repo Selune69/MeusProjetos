@@ -1,5 +1,6 @@
 lista = []
 c = 0
+
 while True:
     valores.append(int(input('Digite um valor: ')))
     pergunta = str(input('Quer continuar? [S/N] ')).strip().upper()

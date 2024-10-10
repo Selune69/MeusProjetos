@@ -3,6 +3,7 @@ time = ('Corinthins', 'Palmeiras', 'Santos',
         'Atletico', 'Botafogo', 'Atletico-PR', 'Bahia', 'Sao Paulo',
         'Fluminense', 'Sport Recife', 'EC Vitoria', 'Coritiba',
         'Avai', 'Ponte Preta', 'Atletic-GO')
+
 print('-=' * 40)
 print(f'Lista de times: {time}')
 print('-=' * 40)

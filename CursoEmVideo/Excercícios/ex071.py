@@ -1,10 +1,13 @@
 print('=' * 30)
 print(f'{"BANCO CEV":^30}')
 print('=' * 30)
+
 n = int(input('Que valor voce quer sacar? R$'))
+
 total = n
 cel = 100
 totcel = 0
+
 while True:
     if total >= cel:
         total = total - cel
