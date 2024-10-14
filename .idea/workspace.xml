@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f3769d5-ae24-4776-94e5-77f5d493514a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo/26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo/27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo/28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo/29.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonexercicios/022.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonexercicios/022.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +41,10 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.022.executor": "Run",
+    "Python.26.executor": "Run",
+    "Python.27.executor": "Run",
+    "Python.28.executor": "Run",
+    "Python.29.executor": "Run",
     "Python.ex080.executor": "Run",
     "Python.ex081.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -49,7 +56,7 @@
       <recent name="C:\Users\Admin01\Documents\MeusProjetos\MeusProjetos\Aulas Otavio Miranda\pythonEstudo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.022">
+  <component name="RunManager" selected="Python.29">
     <configuration name="022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MeusProjetos" />
       <option name="ENV_FILES" value="" />
@@ -72,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex080" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MeusProjetos" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVideo/Excercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVideo/Excercícios/ex080.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo/26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex081" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MeusProjetos" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,11 +110,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVideo/Excercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVideo/Excercícios/ex081.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo/27.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MeusProjetos" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo/28.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MeusProjetos" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Otavio Miranda/pythonEstudo/29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,9 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.29" />
+        <item itemvalue="Python.28" />
+        <item itemvalue="Python.27" />
+        <item itemvalue="Python.26" />
         <item itemvalue="Python.022" />
-        <item itemvalue="Python.ex081" />
-        <item itemvalue="Python.ex080" />
       </list>
     </recent_temporary>
   </component>
