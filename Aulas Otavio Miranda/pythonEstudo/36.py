@@ -5,6 +5,8 @@ for x in range(3):
 
 print(lista)
 
+print()
+
 #or
 
 lista = [
