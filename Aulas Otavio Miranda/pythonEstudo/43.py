@@ -7,4 +7,4 @@ print(next(iterator))
 
 print()
 
-print('Nao tenho mais valores no meu iterator.')
+print('Nao tenho mais valores n+o meu iterator.')
