@@ -3,11 +3,12 @@ c = 0
 
 while True:
     lista.append(int(input('Digite um valor: ')))
-    pergunta = str(input('Quer continuar? [S/N] ')).strip().upper()
-    if pergunta in 'N':
+    pergunta = str(input('Quer continuar? [S/N] '))
+    if pergunta in 'Nn':
         break
-    if lista in 'S':
-        c = c + 1
-#print(f'Voce digitou {len(lista[n])} elementos')
-print(f'Os valores em ordem decrescente sao {lista.sort(reverse=True)}')
-print(f'O valor 5 aparece {c} vezes')
+
+print(f'Voce digitou {len(lista)} elementos')
+lista.sort(reverse=True)
+print(f'Os valores em ordem decrescente sao {lista}')
+if 5 in lista:
+    print(f'O valor 5 aparece na lista')
